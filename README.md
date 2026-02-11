@@ -1,7 +1,6 @@
 # E-COMMERCE-SALES-ANALYSIS-DASHBOARD-EXCEL
 Developed an interactive Ecommerce Sales Analysis dashboard to help stakeholders monitor sales performance, customer behavior, and revenue trends.
-Here is a proper Business Analyst (BA) version of your E-Commerce Sales Analysis Project — written clearly with business purpose, requirements, and solution design.
-Business Problem -
+
 The organization relied on static reports that made it difficult to:
 1.Track real time sales performance
 2.Identify top-performing products
